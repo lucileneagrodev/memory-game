@@ -1,0 +1,35 @@
+@media only screen and (max-width: 600px) {
+    .container {
+        margin-left: 90px;
+        margin-right: 90px;
+    }
+
+    h2 {
+        margin-top: -4px;
+        font-size: 1.5em;
+        font-weight: 500;
+    }
+
+    .item {
+        width: 58px;
+        height: 58px;
+        font-size: 1rem;
+        margin-right: -5.2px;
+        text-align: center;
+        padding: 4px 4px;
+    }
+
+    .game {
+        width: 243px;
+        height: 243px;
+        gap: 10px;
+        perspective: 300px;
+    }
+
+    .reset {
+        padding: 10px 10px;
+        font-size: 1.4rem;
+        margin-top: 18px;
+    }
+
+}
